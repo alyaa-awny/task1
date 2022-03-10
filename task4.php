@@ -137,7 +137,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     <div class="container">
         <h2>Register</h2>
 
-        <form action="task3.php" method="post" enctype= "multipart/form-data">
+        <form action="task4.php" method="post" enctype= "multipart/form-data">
 
             <div class="form-group">
                 <label for="exampleInputName">Name</label>
